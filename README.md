@@ -36,3 +36,8 @@ Tại Command Prompt:
 💡 Backup/di chuyển:
 Chỉ cần copy toàn bộ thư mục D:\Apps\ChromiumPortable
 sang máy khác, vẫn chạy y nguyên.
+
+
+https://chromium.woolyss.com/
+ungoogled-chromium
+• Archive
