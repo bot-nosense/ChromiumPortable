@@ -33,6 +33,7 @@ start "" "%BROWSER_PATH%" ^
 --process-per-site ^
 --no-first-run ^
 --no-default-browser-check ^
+--proxy-server="socks5://127.0.0.1:9150" ^
 --start-maximized
 
 exit /b
